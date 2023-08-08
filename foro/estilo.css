@@ -1,0 +1,18 @@
+#1{
+	font-family:"Comic Sans MS", cursive;
+	font-size: 20px;
+	color:#003;
+	background:-moz-linear-gradient(#6BE5E1,#4BD9EA);
+	width: 100px;
+	text-align: center;
+	height: 40px;
+	border:3px solid blue;
+	border-radius: 10px 10px 10px 10px;
+	cursor:pointer;
+	box-shadow: rgba(0,0,0,0.75) 5px 5px 5px;
+	margin: 20px;
+}
+#1:hover{
+	color:#306;
+	background:#0FF;
+	}
